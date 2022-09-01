@@ -1,5 +1,4 @@
 # Stock-Tracker
-
 Uses 2 API services, to retrieve stock price information, and based on price fluctuation in given time scale,
 will send a watsapp notification, with the top 3 news pieces related to the stock.
 
